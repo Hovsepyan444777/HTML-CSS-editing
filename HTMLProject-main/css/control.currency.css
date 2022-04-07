@@ -1,0 +1,18 @@
+div.money {
+    position: relative;
+    left: 0px;
+}
+  
+div.money label{
+    position: absolute;
+    margin-left: 0.60em;
+    font-size: .9em;
+    line-height: 1.5em;
+    top: 5px
+}
+
+div.money input {
+    padding-left: .8em;
+    min-width: 170px;
+    width: 170px;
+}
